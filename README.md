@@ -12,7 +12,7 @@ Count the Markov equivalent directed acyclic graphs for a given essential graph 
 - "He and Yu 2016"
 - "Dynamic Programming"
 - "Dominating Vertex Elimination Dynamic Programming" (the new method)
-- "Tree Decomposition DP with symmetry reduction"
+- "Symmetry Reduction Tree Decomposition DP"
 
 Generate a visualization of a graph as a DOT file using `./graph_to_dot.release`. Reads the graph as an adjacency matrix from the standard input and writes the DOT file to standard output.
 
